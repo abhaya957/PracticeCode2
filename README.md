@@ -1,2 +1,2 @@
-# PracticeCode2
-To Practice C# Coding 
+# aws-codedeploy-linux
+This is a simple website that can be deployed using AWS Code Services
